@@ -6,7 +6,7 @@
 
 we (@mikey and @gregkan of [Root Systems](https://rootsystems.nz)) will develop an app to play [Telephone Pictionary](https://creightoncreation.wordpress.com/2013/07/28/telephone-pictionary-art-a-great-party-game-with-or-without-drinking/) (also known as [Eat Poop You Cat](http://www.annarbor.com/entertainment/eat-poop-you-cat-telestrations-review/) on Scuttlebutt.
 
-not just a buttload of fun, the app would be the first game to represent and embody the philosophy and paradigms of Scuttlebutt and Solarpunk. we hope it can act as a significant cultural touchstone asset for the community, as well as a bit of a teaser and welcoming gesture for those beginning to explore the Scuttleverse.
+not just a buttload of fun, the app would be the first game to represent and embody the philosophy and paradigms of Scuttlebutt and Solarpunk. we hope it can act as a significant cultural touchstone and asset for the community, as well as a bit of a teaser and welcoming gesture for those beginning to explore the Scuttleverse.
 
 ### what is Telephone Pictionary?
 
