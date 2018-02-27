@@ -1,4 +1,4 @@
-# cat butt
+# eat cat you butt
 
 `#ssbc-grants`
 
@@ -52,10 +52,11 @@ to reduce our scope (and choose our battles wisely!), we will try to reinvent as
 
 1. design: wireframes
 1. design: message schemas
-1. design: acceptance tests
+1. design: (stretch) acceptance tests
 1. dev: scaffold stack
 1. dev: start a game
 1. dev: pass first word or phrase
+1. dev: (stretch) draw using canvas
 1. dev: pass subsequent drawing
 1. dev: take turns until cycle completes
 1. dev: share at the end
